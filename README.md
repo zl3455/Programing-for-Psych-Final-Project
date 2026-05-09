@@ -1,10 +1,6 @@
 # Global Health Financing Analysis
 
-## Project Overview
-
-This project is my final assignment for `Programming for Psychologists`.
-
-For this project, I chose `Option A`, which means I completed a coding project based on real data. I used a TidyTuesday dataset about global health financing to explore how countries pay for health care and how health spending changes across countries.
+I used a TidyTuesday dataset about global health financing to explore how countries pay for health care and how health spending changes across countries.
 
 The project includes 6 analyses and a graph for each analysis.
 
