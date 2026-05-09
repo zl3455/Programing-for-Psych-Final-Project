@@ -27,13 +27,13 @@ I wanted to answer questions such as:
 
 This analysis examines the median share of three major health financing sources across countries from 2000 to 2023. The three sources are government financing, household out-of-pocket payments, and voluntary health care payment schemes. The purpose of this analysis is to show which financing source is most dominant across countries and how the balance between these sources changes over time.
 
-![Analysis 1 graph](/Users/van1/Desktop/Screenshot%202026-05-08%20at%2011.56.00%E2%80%AFPM.png)
+![Analysis 1 graph](assets/readme-images/analysis_1_graph.png)
 
 ### Analysis 2
 
 This analysis focuses on the relationship between government financing and out-of-pocket spending in 2023. I compared these two variables across countries to see whether countries with higher government financing tend to have lower household payment burdens. This analysis helps show whether stronger government support is linked to less direct spending by individuals.
 
-![Analysis 2 graph](/Users/van1/Desktop/Screenshot%202026-05-08%20at%2011.54.02%E2%80%AFPM.png)
+![Analysis 2 graph](assets/readme-images/analysis_2_graph.png)
 
 ### Analysis 3
 
@@ -41,11 +41,11 @@ This analysis measures how government financing changed between 2000 and 2023 in
 
 Top increases in government financing share:
 
-![Analysis 3 table](/Users/van1/Desktop/Screenshot%202026-05-09%20at%2012.01.46%E2%80%AFAM.png)
+![Analysis 3 table](assets/readme-images/analysis_3_table.png)
 
 Graph of the largest increases and decreases:
 
-![Analysis 3 graph](/Users/van1/Desktop/Screenshot%202026-05-08%20at%2011.57.21%E2%80%AFPM.png)
+![Analysis 3 graph](assets/readme-images/analysis_3_graph.png)
 
 ### Analysis 4
 
@@ -53,11 +53,11 @@ This analysis looks at the growth in total health spending in constant 2023 US d
 
 Top countries with the largest growth in real health spending:
 
-![Analysis 4 table](/Users/van1/Desktop/Screenshot%202026-05-09%20at%2012.02.57%E2%80%AFAM.png)
+![Analysis 4 table](assets/readme-images/analysis_4_table.png)
 
 Graph of the countries with the largest growth:
 
-![Analysis 4 graph](/Users/van1/Desktop/Screenshot%202026-05-09%20at%2012.02.40%E2%80%AFAM.png)
+![Analysis 4 graph](assets/readme-images/analysis_4_graph.png)
 
 ### Analysis 5
 
@@ -65,11 +65,11 @@ This analysis identifies the countries that depended most heavily on external he
 
 Top countries with the highest external health financing in 2023:
 
-![Analysis 5 table](/Users/van1/Desktop/Screenshot%202026-05-09%20at%2012.03.55%E2%80%AFAM.png)
+![Analysis 5 table](assets/readme-images/analysis_5_table.png)
 
 Graph of the countries most reliant on external health financing:
 
-![Analysis 5 graph](/Users/van1/Desktop/Screenshot%202026-05-09%20at%2012.03.45%E2%80%AFAM.png)
+![Analysis 5 graph](assets/readme-images/analysis_5_graph.png)
 
 ### Analysis 6
 
@@ -77,11 +77,11 @@ This analysis explores how health spending was distributed across different heal
 
 Median spending purpose shares in 2023:
 
-![Analysis 6 table](/Users/van1/Desktop/Screenshot%202026-05-09%20at%2012.10.27%E2%80%AFAM.png)
+![Analysis 6 table](assets/readme-images/analysis_6_table.png)
 
 Graph of spending purpose shares:
 
-![Analysis 6 graph](/Users/van1/Desktop/Screenshot%202026-05-09%20at%2012.10.18%E2%80%AFAM.png)
+![Analysis 6 graph](assets/readme-images/analysis_6_graph.png)
 
 ## Main Findings
 
